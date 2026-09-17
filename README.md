@@ -246,4 +246,4 @@ This repository serves as the official landing page for Among the Sleep. The sof
 **Get the most recent version of Among the Sleep today!**
 
 ---
-**Last updated:** 2026-09-17 01:10:31 UTC
+**Last updated:** 2026-09-17 07:21:27 UTC
